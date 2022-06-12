@@ -5,19 +5,19 @@ The analysis uses PySpark, in this case operated through ther Google Collaborate
 I focused on video game reviews in the United States
 
 ### Initial PgAdmin Tables
-Customers Table
+_Customers Table_
 
 ![Customers_SQL](https://user-images.githubusercontent.com/99096376/173248367-0029c947-66fd-442a-8ea0-8549781dd6bf.png)
 
-Products Table
+_Products Table_
 
 ![Prodcuts_SQL](https://user-images.githubusercontent.com/99096376/173248383-0e5ad8ff-88bd-47fe-9167-b4b0ddcdcaf0.png)
 
-Review Id Table
+_Review Id Table_
 
 ![Review_ID_Postgres](https://user-images.githubusercontent.com/99096376/173248403-9cc409fd-eca0-4a89-a269-3d4dc3ad04ee.png)
 
-Vine Table
+_Vine Table_
 
 ![Vine_Table_SQL](https://user-images.githubusercontent.com/99096376/173248416-f70d0313-655d-466d-a0c2-2be5c2eff097.png)
 
